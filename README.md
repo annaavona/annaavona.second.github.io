@@ -96,7 +96,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Raffaella-Carrà" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Rock-Music-in-Spain","name":"Raffaella-Carrà","url":"https://annaavona.second.github.io/RaffaellaCarra"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":"Raffaella-Carrà","name":"Raffaella-Carrà","url":"https://annaavona.second.github.io/RaffaellaCarra"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/Raffaella-Carrà/assets/css/style.css?v=a7dd37010ff8feb3a56a8528c421cf90395a8269" />
